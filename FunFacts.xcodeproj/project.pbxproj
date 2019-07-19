@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9251D47022E28AA30077D9BD /* ColorProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9251D46F22E28AA30077D9BD /* ColorProvider.swift */; };
 		92CCF72122DBD05F00192704 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92CCF72022DBD05F00192704 /* AppDelegate.swift */; };
 		92CCF72322DBD05F00192704 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92CCF72222DBD05F00192704 /* ViewController.swift */; };
 		92CCF72622DBD05F00192704 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92CCF72422DBD05F00192704 /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9251D46F22E28AA30077D9BD /* ColorProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorProvider.swift; sourceTree = "<group>"; };
 		92CCF71D22DBD05F00192704 /* FunFacts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FunFacts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		92CCF72022DBD05F00192704 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		92CCF72222DBD05F00192704 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				92CCF72922DBD06500192704 /* LaunchScreen.storyboard */,
 				92CCF72C22DBD06500192704 /* Info.plist */,
 				92CCF74E22DBD91600192704 /* FactProvider.swift */,
+				9251D46F22E28AA30077D9BD /* ColorProvider.swift */,
 			);
 			path = FunFacts;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9251D47022E28AA30077D9BD /* ColorProvider.swift in Sources */,
 				92CCF72322DBD05F00192704 /* ViewController.swift in Sources */,
 				92CCF72122DBD05F00192704 /* AppDelegate.swift in Sources */,
 				92CCF74F22DBD91600192704 /* FactProvider.swift in Sources */,
